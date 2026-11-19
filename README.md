@@ -2,6 +2,8 @@
 
 I'm Rehan, a Computer Science (Co-op) student at McMaster University. I like building full-stack web apps and security projects, and I'm a General Executive at the McMaster Cyber Security Club.
 
+🌵 **Portfolio:** [rehanptl.github.io](https://rehanptl.github.io), a pixel-art town you can drive around to see my projects, experience and skills.
+
 ### 🔨 What I've built
 
 - 🍹 **[Pour Decisions](https://www.pourdecisions.lol)**: a daily web game where you pour exact percentages into oddly shaped glasses (Next.js, PostgreSQL)
